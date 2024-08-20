@@ -1,2 +1,2 @@
 https://tanzeel4.github.io/Snake-Game/
-https://chimerical-beignet-92306a.netlify.app
+https://snake-game007.netlify.app
